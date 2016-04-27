@@ -1,6 +1,6 @@
 {
   "name": "debug-resolve",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A module to create a string to use with debug from the file's path",
   "main": "index.js",
   "scripts": {
